@@ -1,0 +1,96 @@
+{
+  "name": "demo_green_detcrops",
+  "before": {
+    "images": 60,
+    "plates": 60,
+    "detection_recall": 1.0,
+    "plate_accuracy": 0.85,
+    "colour_accuracy": 1.0,
+    "reviewed_plates": 60,
+    "ms_per_image": 195.0782200321555,
+    "errors": [
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\039719827586206895-92_236-225&500_567&606-567&606_266&574_225&500_533&515-0_0_3_29_32_30_31_31-55-16.jpg",
+        "皖AD58677",
+        "鄂A9776"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\035246647509578545-90_228-203&516_562&606-562&606_258&584_203&516_513&522-0_0_3_33_25_33_33_32-49-86.jpg",
+        "皖AD91998",
+        "皖AD81898"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\04422294061302682-90_236-140&505_555&602-555&602_191&594_140&511_517&505-0_0_3_30_25_27_27_32-57-51.jpg",
+        "皖AD61338",
+        "皖AD610338"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\06959770114942529-95_243-120&495_639&618-566&618_120&599_178&495_639&543-0_0_3_27_30_30_27_30-86-365.jpg",
+        "皖AD36636",
+        "皖A4Z26762"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\04246168582375479-93_227-158&504_561&600-561&600_219&584_158&504_508&526-0_0_3_32_30_25_30_32-129-58.jpg",
+        "皖AD86168",
+        "皖A060SD"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\3025458984375-81_103-246&451_483&560-479&519_266&560_246&472_483&451-0_0_5_24_33_32_29_33-133-95.jpg",
+        "皖AF09859",
+        "豫AF09859"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\04177083333333333-90_255-162&459_563&554-562&554_182&543_162&459_563&464-0_0_3_29_29_33_32_24-182-420.jpg",
+        "皖AD55980",
+        "皖AD559B0"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\06281130268199234-84_233-161&532_591&666-534&607_161&666_207&582_591&532-0_0_3_1_26_32_33_29-120-192.jpg",
+        "皖ADB2895",
+        "皖A7213"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\01003831417624521-97_267-263&515_394&585-389&585_263&573_272&515_394&534-0_0_3_25_31_31_32_33-125-10.jpg",
+        "皖AD17789",
+        "皖AD0789"
+      ]
+    ]
+  },
+  "after": {
+    "images": 60,
+    "plates": 60,
+    "detection_recall": 1.0,
+    "plate_accuracy": 0.9333333333333333,
+    "colour_accuracy": 1.0,
+    "reviewed_plates": 60,
+    "ms_per_image": 56.45289666329821,
+    "errors": [
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\039719827586206895-92_236-225&500_567&606-567&606_266&574_225&500_533&515-0_0_3_29_32_30_31_31-55-16.jpg",
+        "皖AD58677",
+        "皖AD5867"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\06959770114942529-95_243-120&495_639&618-566&618_120&599_178&495_639&543-0_0_3_27_30_30_27_30-86-365.jpg",
+        "皖AD36636",
+        "皖A4D262"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\3025458984375-81_103-246&451_483&560-479&519_266&560_246&472_483&451-0_0_5_24_33_32_29_33-133-95.jpg",
+        "皖AF09859",
+        "豫AF09859"
+      ],
+      [
+        "C:\\Users\\KJS_02\\AppData\\Local\\Temp\\60\\claude\\d--KJS-02-work-Stable-Diffusion-ALPR\\7cdb51fe-753c-40f5-9655-13c09a567dce\\scratchpad\\site_green\\01003831417624521-97_267-263&515_394&585-389&585_263&573_272&515_394&534-0_0_3_25_31_31_32_33-125-10.jpg",
+        "皖AD17789",
+        "皖AD07089"
+      ]
+    ]
+  },
+  "detector": "runs\\finetune\\demo_green_det\\weights\\best.pt",
+  "recogniser": "D:\\KJS_02\\work\\Stable Diffusion\\ALPR\\training\\runs\\finetune\\demo_green_detcrops_rec\\best.pt",
+  "models": "D:\\KJS_02\\work\\Stable Diffusion\\ALPR\\models_demo_green_detcrops",
+  "train_photos": 340,
+  "val_photos": 60,
+  "replay": 200
+}

@@ -1,0 +1,33 @@
+device: cpu
+synthetic set ready: ..\datasets\alpr\rec\synth (40000)
+synthetic 40000 | real train 4000 | real val 200
+initialised from runs/rec/best.pt
+PlateNet params: 1.84 M
+  [B real] ep 1/20 it 20/100 loss 0.0316  [B real] ep 1/20 it 40/100 loss 0.0305  [B real] ep 1/20 it 60/100 loss 0.0297  [B real] ep 1/20 it 80/100 loss 0.0322  [B real] ep 1/20 it 100/100 loss 0.0314  [B real] ep 1/20 loss 0.0314 | real-val plate acc 0.9650 char acc 0.9814 colour acc 0.9950 | 108s
+  -> new best 0.9650 saved
+  [B real] ep 2/20 it 20/100 loss 0.0251  [B real] ep 2/20 it 40/100 loss 0.0295  [B real] ep 2/20 it 60/100 loss 0.0341  [B real] ep 2/20 it 80/100 loss 0.0374  [B real] ep 2/20 it 100/100 loss 0.0417  [B real] ep 2/20 loss 0.0417 | real-val plate acc 0.9500 char acc 0.9710 colour acc 0.9900 | 97s
+  [B real] ep 3/20 it 20/100 loss 0.0430  [B real] ep 3/20 it 40/100 loss 0.0509  [B real] ep 3/20 it 60/100 loss 0.0549  [B real] ep 3/20 it 80/100 loss 0.0555  [B real] ep 3/20 it 100/100 loss 0.0544  [B real] ep 3/20 loss 0.0544 | real-val plate acc 0.9350 char acc 0.9683 colour acc 0.9950 | 98s
+  [B real] ep 4/20 it 20/100 loss 0.0450  [B real] ep 4/20 it 40/100 loss 0.0435  [B real] ep 4/20 it 60/100 loss 0.0401  [B real] ep 4/20 it 80/100 loss 0.0412  [B real] ep 4/20 it 100/100 loss 0.0392  [B real] ep 4/20 loss 0.0392 | real-val plate acc 0.9650 char acc 0.9793 colour acc 0.9950 | 95s
+  -> new best 0.9650 saved
+  [B real] ep 5/20 it 20/100 loss 0.0380  [B real] ep 5/20 it 40/100 loss 0.0366  [B real] ep 5/20 it 60/100 loss 0.0340  [B real] ep 5/20 it 80/100 loss 0.0336  [B real] ep 5/20 it 100/100 loss 0.0320  [B real] ep 5/20 loss 0.0320 | real-val plate acc 0.9700 char acc 0.9738 colour acc 0.9900 | 99s
+  -> new best 0.9700 saved
+  [B real] ep 6/20 it 20/100 loss 0.0440  [B real] ep 6/20 it 40/100 loss 0.0417  [B real] ep 6/20 it 60/100 loss 0.0404  [B real] ep 6/20 it 80/100 loss 0.0391  [B real] ep 6/20 it 100/100 loss 0.0375  [B real] ep 6/20 loss 0.0375 | real-val plate acc 0.9500 char acc 0.9676 colour acc 0.9950 | 130s
+  [B real] ep 7/20 it 20/100 loss 0.0287  [B real] ep 7/20 it 40/100 loss 0.0280  [B real] ep 7/20 it 60/100 loss 0.0280  [B real] ep 7/20 it 80/100 loss 0.0271  [B real] ep 7/20 it 100/100 loss 0.0281  [B real] ep 7/20 loss 0.0281 | real-val plate acc 0.9650 char acc 0.9759 colour acc 0.9950 | 104s
+  [B real] ep 8/20 it 20/100 loss 0.0207  [B real] ep 8/20 it 40/100 loss 0.0210  [B real] ep 8/20 it 60/100 loss 0.0208  [B real] ep 8/20 it 80/100 loss 0.0209  [B real] ep 8/20 it 100/100 loss 0.0214  [B real] ep 8/20 loss 0.0214 | real-val plate acc 0.9600 char acc 0.9772 colour acc 0.9850 | 94s
+  [B real] ep 9/20 it 20/100 loss 0.0215  [B real] ep 9/20 it 40/100 loss 0.0230  [B real] ep 9/20 it 60/100 loss 0.0228  [B real] ep 9/20 it 80/100 loss 0.0214  [B real] ep 9/20 it 100/100 loss 0.0199  [B real] ep 9/20 loss 0.0199 | real-val plate acc 0.9650 char acc 0.9848 colour acc 0.9950 | 98s
+  [B real] ep 10/20 it 20/100 loss 0.0171  [B real] ep 10/20 it 40/100 loss 0.0151  [B real] ep 10/20 it 60/100 loss 0.0149  [B real] ep 10/20 it 80/100 loss 0.0153  [B real] ep 10/20 it 100/100 loss 0.0153  [B real] ep 10/20 loss 0.0153 | real-val plate acc 0.9750 char acc 0.9841 colour acc 0.9950 | 95s
+  -> new best 0.9750 saved
+  [B real] ep 11/20 it 20/100 loss 0.0125  [B real] ep 11/20 it 40/100 loss 0.0146  [B real] ep 11/20 it 60/100 loss 0.0150  [B real] ep 11/20 it 80/100 loss 0.0144  [B real] ep 11/20 it 100/100 loss 0.0153  [B real] ep 11/20 loss 0.0153 | real-val plate acc 0.9750 char acc 0.9834 colour acc 0.9950 | 96s
+  -> new best 0.9750 saved
+  [B real] ep 12/20 it 20/100 loss 0.0120  [B real] ep 12/20 it 40/100 loss 0.0106  [B real] ep 12/20 it 60/100 loss 0.0121  [B real] ep 12/20 it 80/100 loss 0.0119  [B real] ep 12/20 it 100/100 loss 0.0125  [B real] ep 12/20 loss 0.0125 | real-val plate acc 0.9700 char acc 0.9848 colour acc 0.9950 | 95s
+  [B real] ep 13/20 it 20/100 loss 0.0114  [B real] ep 13/20 it 40/100 loss 0.0108  [B real] ep 13/20 it 60/100 loss 0.0095  [B real] ep 13/20 it 80/100 loss 0.0095  [B real] ep 13/20 it 100/100 loss 0.0090  [B real] ep 13/20 loss 0.0090 | real-val plate acc 0.9700 char acc 0.9848 colour acc 0.9950 | 95s
+  [B real] ep 14/20 it 20/100 loss 0.0082  [B real] ep 14/20 it 40/100 loss 0.0085  [B real] ep 14/20 it 60/100 loss 0.0080  [B real] ep 14/20 it 80/100 loss 0.0073  [B real] ep 14/20 it 100/100 loss 0.0075  [B real] ep 14/20 loss 0.0075 | real-val plate acc 0.9700 char acc 0.9848 colour acc 0.9950 | 97s
+  [B real] ep 15/20 it 20/100 loss 0.0066  [B real] ep 15/20 it 40/100 loss 0.0079  [B real] ep 15/20 it 60/100 loss 0.0074  [B real] ep 15/20 it 80/100 loss 0.0076  [B real] ep 15/20 it 100/100 loss 0.0072  [B real] ep 15/20 loss 0.0072 | real-val plate acc 0.9700 char acc 0.9841 colour acc 0.9950 | 105s
+  [B real] ep 16/20 it 20/100 loss 0.0059  [B real] ep 16/20 it 40/100 loss 0.0067  [B real] ep 16/20 it 60/100 loss 0.0076  [B real] ep 16/20 it 80/100 loss 0.0076  [B real] ep 16/20 it 100/100 loss 0.0075  [B real] ep 16/20 loss 0.0075 | real-val plate acc 0.9750 char acc 0.9848 colour acc 0.9950 | 99s
+  -> new best 0.9750 saved
+  [B real] ep 17/20 it 20/100 loss 0.0048  [B real] ep 17/20 it 40/100 loss 0.0064  [B real] ep 17/20 it 60/100 loss 0.0063  [B real] ep 17/20 it 80/100 loss 0.0071  [B real] ep 17/20 it 100/100 loss 0.0073  [B real] ep 17/20 loss 0.0073 | real-val plate acc 0.9700 char acc 0.9834 colour acc 0.9950 | 95s
+  [B real] ep 18/20 it 20/100 loss 0.0069  [B real] ep 18/20 it 40/100 loss 0.0084  [B real] ep 18/20 it 60/100 loss 0.0074  [B real] ep 18/20 it 80/100 loss 0.0066  [B real] ep 18/20 it 100/100 loss 0.0061  [B real] ep 18/20 loss 0.0061 | real-val plate acc 0.9700 char acc 0.9841 colour acc 0.9950 | 97s
+  [B real] ep 19/20 it 20/100 loss 0.0043  [B real] ep 19/20 it 40/100 loss 0.0052  [B real] ep 19/20 it 60/100 loss 0.0049  [B real] ep 19/20 it 80/100 loss 0.0046  [B real] ep 19/20 it 100/100 loss 0.0050  [B real] ep 19/20 loss 0.0050 | real-val plate acc 0.9700 char acc 0.9841 colour acc 0.9950 | 98s
+  [B real] ep 20/20 it 20/100 loss 0.0040  [B real] ep 20/20 it 40/100 loss 0.0045  [B real] ep 20/20 it 60/100 loss 0.0043  [B real] ep 20/20 it 80/100 loss 0.0042  [B real] ep 20/20 it 100/100 loss 0.0041  [B real] ep 20/20 loss 0.0041 | real-val plate acc 0.9700 char acc 0.9841 colour acc 0.9950 | 94s
+
+best real-val plate accuracy 0.9750 -> runs\rec_more\best.pt

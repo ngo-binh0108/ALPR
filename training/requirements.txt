@@ -1,0 +1,15 @@
+# ALPR training environment (Python 3.13)
+# Offline install:  pip install --no-index --find-links ..\packages\python -r requirements.txt
+torch>=2.6
+torchvision>=0.21
+ultralytics>=8.3
+onnx>=1.17
+onnxslim>=0.1.50
+onnxruntime>=1.20
+opencv-python>=4.10
+numpy>=1.26
+pillow>=10.0
+pyyaml>=6.0
+tqdm>=4.66
+matplotlib>=3.8
+aqtinstall>=3.1
