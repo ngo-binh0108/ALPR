@@ -1,5 +1,6 @@
 # ALPR — High-performance Chinese licence plate recognition
-
+ 
+![ALPR Dashboard](alpr-dashboard.png)
 Two parts:
 
 | Part | Folder | Tech |
